@@ -1,0 +1,12 @@
+C:\Users\anuar\source\repos\DzLibrarySystemLinQ\DzLibrarySystemLinQ\bin\Debug\DzLibrarySystemLinQ.exe.config
+C:\Users\anuar\source\repos\DzLibrarySystemLinQ\DzLibrarySystemLinQ\bin\Debug\DzLibrarySystemLinQ.exe
+C:\Users\anuar\source\repos\DzLibrarySystemLinQ\DzLibrarySystemLinQ\bin\Debug\DzLibrarySystemLinQ.pdb
+C:\Users\anuar\source\repos\DzLibrarySystemLinQ\DzLibrarySystemLinQ\bin\Debug\EntityFramework.dll
+C:\Users\anuar\source\repos\DzLibrarySystemLinQ\DzLibrarySystemLinQ\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\anuar\source\repos\DzLibrarySystemLinQ\DzLibrarySystemLinQ\bin\Debug\EntityFramework.xml
+C:\Users\anuar\source\repos\DzLibrarySystemLinQ\DzLibrarySystemLinQ\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\anuar\source\repos\DzLibrarySystemLinQ\DzLibrarySystemLinQ\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\anuar\source\repos\DzLibrarySystemLinQ\DzLibrarySystemLinQ\obj\Debug\DzLibrarySystemLinQ.csprojResolveAssemblyReference.cache
+C:\Users\anuar\source\repos\DzLibrarySystemLinQ\DzLibrarySystemLinQ\obj\Debug\DzLibrarySystemLinQ.csproj.CoreCompileInputs.cache
+C:\Users\anuar\source\repos\DzLibrarySystemLinQ\DzLibrarySystemLinQ\obj\Debug\DzLibrarySystemLinQ.exe
+C:\Users\anuar\source\repos\DzLibrarySystemLinQ\DzLibrarySystemLinQ\obj\Debug\DzLibrarySystemLinQ.pdb
